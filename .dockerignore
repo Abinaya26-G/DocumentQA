@@ -1,0 +1,13 @@
+.git
+.gitignore
+.idea
+.vscode
+
+target/
+
+node_modules/
+frontend/documentqafront/node_modules/
+
+frontend/documentqafront/dist/
+
+*.log
