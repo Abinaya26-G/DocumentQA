@@ -54,7 +54,7 @@ function App() {
     try {
 
       const response = await fetch(
-        "http://https://documentqa-j8ny.onrender.com/api/documents/upload",
+        "https://documentqa-j8ny.onrender.com/api/documents/upload",
         {
           method: "POST",
           body: formData
@@ -110,7 +110,7 @@ function App() {
     try {
 
       const response = await fetch(
-        "http://https://documentqa-j8ny.onrender.com/api/documents/ask",
+        "https://documentqa-j8ny.onrender.com/api/documents/ask",
         {
           method: "POST",
 
